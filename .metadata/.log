@@ -11,3 +11,6 @@ Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.
 
 !ENTRY com.android.ide.eclipse.adt 4 0 2012-03-29 16:48:15.360
 !MESSAGE Failed to load properties file for project 'MyAndroidProject'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2012-03-29 16:58:55.202
+!MESSAGE Unable to update index for central|http://repo1.maven.org/maven2
